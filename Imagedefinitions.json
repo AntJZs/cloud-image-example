@@ -1,0 +1,6 @@
+[
+	{
+		"name": "DeployFromGH",
+	"image": "835262797127.dkr.ecr.us-east-1.amazonaws.com/cloud-image-example:latest"
+	}
+]
