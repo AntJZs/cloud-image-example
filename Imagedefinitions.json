@@ -1,6 +1,6 @@
 [
 	{
-	"name": "task-mi-app-service",
+	"name": "httpd-app",
 	"imageUri": "835262797127.dkr.ecr.us-east-1.amazonaws.com/cloud-image-example:latest"
 	}
 ]
